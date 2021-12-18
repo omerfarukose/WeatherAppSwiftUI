@@ -1,5 +1,5 @@
 //
-//  WeatherAppSwiftUI.swift
+//  WeatherManager.swift
 //  WeatherAppSwiftUI
 //
 //  Created by Ömer Faruk KÖSE on 18.12.2021.
